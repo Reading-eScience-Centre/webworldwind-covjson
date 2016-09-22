@@ -1,7 +1,7 @@
 # webworldwind-covjson(WIP)
 
-The goal of the project is to be able to eectively visualize environmental data
-that is in coverage JSON format. To do this we have decided to use NASA's
+The goal of the project is to be able to effectively visualize environmental data
+that is in [CoverageJSON](https://covjson.org) format. To do this we have decided to use NASA's
 WebWorldWind as the base to render the images on.
 
 (Please note: This is still using components not coordinates since all the test files on the ncwms demo use componenets.)
